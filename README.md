@@ -1,2 +1,1 @@
-# SwordCraftGame
-WebGL game
+# SwordCraftGame is WebGL game, solo project
